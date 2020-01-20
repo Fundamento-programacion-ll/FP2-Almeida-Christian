@@ -11,4 +11,8 @@ package mvc;
  */
 public class MVC {
     
+    public static void main(String[] args) {
+        
+        persona christian = new  persona("christian", "almeida", 1726, 22, 0, "carapungo", 'm', true);
+    }
 }
